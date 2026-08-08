@@ -36,12 +36,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Shreya08-01/LEET-CODE/tree/master/0013-roman-to-integer) |
+| [0205-isomorphic-strings](https://github.com/Shreya08-01/LEET-CODE/tree/master/0205-isomorphic-strings) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Shreya08-01/LEET-CODE/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/Shreya08-01/LEET-CODE/tree/master/0058-length-of-last-word) |
 | [0171-excel-sheet-column-number](https://github.com/Shreya08-01/LEET-CODE/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/Shreya08-01/LEET-CODE/tree/master/0205-isomorphic-strings) |
 ## Stack
 |  |
 | ------- |
