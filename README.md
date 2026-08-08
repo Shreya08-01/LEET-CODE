@@ -88,4 +88,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Shreya08-01/LEET-CODE/tree/master/0190-reverse-bits) |
+| [0461-hamming-distance](https://github.com/Shreya08-01/LEET-CODE/tree/master/0461-hamming-distance) |
 <!---LeetCode Topics End-->
