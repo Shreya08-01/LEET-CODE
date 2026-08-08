@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shreya08-01/LEET-CODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0190-reverse-bits](https://github.com/Shreya08-01/LEET-CODE/tree/master/0190-reverse-bits) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/Shreya08-01/LEET-CODE/tree/master/0414-third-maximum-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/Shreya08-01/LEET-CODE/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
