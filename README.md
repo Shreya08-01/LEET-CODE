@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shreya08-01/LEET-CODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0414-third-maximum-number](https://github.com/Shreya08-01/LEET-CODE/tree/master/0414-third-maximum-number) |
 | [0566-reshape-the-matrix](https://github.com/Shreya08-01/LEET-CODE/tree/master/0566-reshape-the-matrix) |
+| [0605-can-place-flowers](https://github.com/Shreya08-01/LEET-CODE/tree/master/0605-can-place-flowers) |
 ## Binary Search
 |  |
 | ------- |
@@ -89,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/Shreya08-01/LEET-CODE/tree/master/0190-reverse-bits) |
 | [0461-hamming-distance](https://github.com/Shreya08-01/LEET-CODE/tree/master/0461-hamming-distance) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/Shreya08-01/LEET-CODE/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
