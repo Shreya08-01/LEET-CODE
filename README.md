@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shreya08-01/LEET-CODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0219-contains-duplicate-ii](https://github.com/Shreya08-01/LEET-CODE/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Shreya08-01/LEET-CODE/tree/master/0228-summary-ranges) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Shreya08-01/LEET-CODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Shreya08-01/LEET-CODE/tree/master/0414-third-maximum-number) |
 | [0566-reshape-the-matrix](https://github.com/Shreya08-01/LEET-CODE/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/Shreya08-01/LEET-CODE/tree/master/0605-can-place-flowers) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shreya08-01/LEET-CODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Shreya08-01/LEET-CODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Shreya08-01/LEET-CODE/tree/master/0374-guess-number-higher-or-lower) |
 ## Divide and Conquer
 |  |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Shreya08-01/LEET-CODE/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/Shreya08-01/LEET-CODE/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Shreya08-01/LEET-CODE/tree/master/0219-contains-duplicate-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Shreya08-01/LEET-CODE/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String
 |  |
 | ------- |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Shreya08-01/LEET-CODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Shreya08-01/LEET-CODE/tree/master/0414-third-maximum-number) |
 ## Bit Manipulation
 |  |
@@ -101,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Shreya08-01/LEET-CODE/tree/master/0219-contains-duplicate-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Shreya08-01/LEET-CODE/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
