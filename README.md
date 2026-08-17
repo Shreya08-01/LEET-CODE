@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Shreya08-01/LEET-CODE/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Shreya08-01/LEET-CODE/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/Shreya08-01/LEET-CODE/tree/master/0495-teemo-attacking) |
+| [0496-next-greater-element-i](https://github.com/Shreya08-01/LEET-CODE/tree/master/0496-next-greater-element-i) |
 | [0566-reshape-the-matrix](https://github.com/Shreya08-01/LEET-CODE/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/Shreya08-01/LEET-CODE/tree/master/0605-can-place-flowers) |
 ## Binary Search
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Shreya08-01/LEET-CODE/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Shreya08-01/LEET-CODE/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shreya08-01/LEET-CODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0496-next-greater-element-i](https://github.com/Shreya08-01/LEET-CODE/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shreya08-01/LEET-CODE/tree/master/0094-binary-tree-inorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/Shreya08-01/LEET-CODE/tree/master/0496-next-greater-element-i) |
 ## Tree
 |  |
 | ------- |
@@ -127,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/Shreya08-01/LEET-CODE/tree/master/0463-island-perimeter) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Shreya08-01/LEET-CODE/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
