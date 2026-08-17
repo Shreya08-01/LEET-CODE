@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Shreya08-01/LEET-CODE/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/Shreya08-01/LEET-CODE/tree/master/0506-relative-ranks) |
 | [0566-reshape-the-matrix](https://github.com/Shreya08-01/LEET-CODE/tree/master/0566-reshape-the-matrix) |
+| [0594-longest-harmonious-subsequence](https://github.com/Shreya08-01/LEET-CODE/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/Shreya08-01/LEET-CODE/tree/master/0605-can-place-flowers) |
 ## Binary Search
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Shreya08-01/LEET-CODE/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shreya08-01/LEET-CODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/Shreya08-01/LEET-CODE/tree/master/0496-next-greater-element-i) |
+| [0594-longest-harmonious-subsequence](https://github.com/Shreya08-01/LEET-CODE/tree/master/0594-longest-harmonious-subsequence) |
 ## String
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Shreya08-01/LEET-CODE/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Shreya08-01/LEET-CODE/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Shreya08-01/LEET-CODE/tree/master/0506-relative-ranks) |
+| [0594-longest-harmonious-subsequence](https://github.com/Shreya08-01/LEET-CODE/tree/master/0594-longest-harmonious-subsequence) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Shreya08-01/LEET-CODE/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/Shreya08-01/LEET-CODE/tree/master/0594-longest-harmonious-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -140,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/Shreya08-01/LEET-CODE/tree/master/0506-relative-ranks) |
+## Counting
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Shreya08-01/LEET-CODE/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
