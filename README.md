@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Shreya08-01/LEET-CODE/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/Shreya08-01/LEET-CODE/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/Shreya08-01/LEET-CODE/tree/master/0496-next-greater-element-i) |
+| [0506-relative-ranks](https://github.com/Shreya08-01/LEET-CODE/tree/master/0506-relative-ranks) |
 | [0566-reshape-the-matrix](https://github.com/Shreya08-01/LEET-CODE/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/Shreya08-01/LEET-CODE/tree/master/0605-can-place-flowers) |
 ## Binary Search
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shreya08-01/LEET-CODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Shreya08-01/LEET-CODE/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Shreya08-01/LEET-CODE/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/Shreya08-01/LEET-CODE/tree/master/0506-relative-ranks) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -134,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Shreya08-01/LEET-CODE/tree/master/0496-next-greater-element-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/Shreya08-01/LEET-CODE/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
