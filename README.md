@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Shreya08-01/LEET-CODE/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/Shreya08-01/LEET-CODE/tree/master/0598-range-addition-ii) |
 | [0605-can-place-flowers](https://github.com/Shreya08-01/LEET-CODE/tree/master/0605-can-place-flowers) |
+| [0682-baseball-game](https://github.com/Shreya08-01/LEET-CODE/tree/master/0682-baseball-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shreya08-01/LEET-CODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Shreya08-01/LEET-CODE/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/Shreya08-01/LEET-CODE/tree/master/0682-baseball-game) |
 ## Tree
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0495-teemo-attacking](https://github.com/Shreya08-01/LEET-CODE/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/Shreya08-01/LEET-CODE/tree/master/0566-reshape-the-matrix) |
+| [0682-baseball-game](https://github.com/Shreya08-01/LEET-CODE/tree/master/0682-baseball-game) |
 ## Dynamic Programming
 |  |
 | ------- |
