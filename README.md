@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0598-range-addition-ii](https://github.com/Shreya08-01/LEET-CODE/tree/master/0598-range-addition-ii) |
 | [0605-can-place-flowers](https://github.com/Shreya08-01/LEET-CODE/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shreya08-01/LEET-CODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/Shreya08-01/LEET-CODE/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Shreya08-01/LEET-CODE/tree/master/0682-baseball-game) |
 ## Binary Search
 |  |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Shreya08-01/LEET-CODE/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Shreya08-01/LEET-CODE/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/Shreya08-01/LEET-CODE/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
 |  |
 | ------- |
