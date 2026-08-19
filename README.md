@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Shreya08-01/LEET-CODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Shreya08-01/LEET-CODE/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Shreya08-01/LEET-CODE/tree/master/0682-baseball-game) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Shreya08-01/LEET-CODE/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -158,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Shreya08-01/LEET-CODE/tree/master/0594-longest-harmonious-subsequence) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Shreya08-01/LEET-CODE/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
