@@ -169,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shreya08-01/LEET-CODE/tree/master/2778-sum-of-squares-of-special-elements) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/Shreya08-01/LEET-CODE/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
