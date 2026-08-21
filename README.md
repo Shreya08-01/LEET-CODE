@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Shreya08-01/LEET-CODE/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shreya08-01/LEET-CODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Shreya08-01/LEET-CODE/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/Shreya08-01/LEET-CODE/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Shreya08-01/LEET-CODE/tree/master/0682-baseball-game) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shreya08-01/LEET-CODE/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Binary Search
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shreya08-01/LEET-CODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/Shreya08-01/LEET-CODE/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/Shreya08-01/LEET-CODE/tree/master/0594-longest-harmonious-subsequence) |
+| [0645-set-mismatch](https://github.com/Shreya08-01/LEET-CODE/tree/master/0645-set-mismatch) |
 ## String
 |  |
 | ------- |
@@ -118,11 +120,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Shreya08-01/LEET-CODE/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/Shreya08-01/LEET-CODE/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shreya08-01/LEET-CODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/Shreya08-01/LEET-CODE/tree/master/0645-set-mismatch) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Shreya08-01/LEET-CODE/tree/master/0190-reverse-bits) |
 | [0461-hamming-distance](https://github.com/Shreya08-01/LEET-CODE/tree/master/0461-hamming-distance) |
+| [0645-set-mismatch](https://github.com/Shreya08-01/LEET-CODE/tree/master/0645-set-mismatch) |
 ## Greedy
 |  |
 | ------- |
