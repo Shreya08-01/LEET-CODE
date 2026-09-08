@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shreya08-01/LEET-CODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shreya08-01/LEET-CODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shreya08-01/LEET-CODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0137-single-number-ii](https://github.com/Shreya08-01/LEET-CODE/tree/master/0137-single-number-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Shreya08-01/LEET-CODE/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Shreya08-01/LEET-CODE/tree/master/0228-summary-ranges) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shreya08-01/LEET-CODE/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/Shreya08-01/LEET-CODE/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Shreya08-01/LEET-CODE/tree/master/0190-reverse-bits) |
 | [0461-hamming-distance](https://github.com/Shreya08-01/LEET-CODE/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Shreya08-01/LEET-CODE/tree/master/0476-number-complement) |
