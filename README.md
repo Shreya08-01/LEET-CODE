@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Shreya08-01/LEET-CODE/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shreya08-01/LEET-CODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shreya08-01/LEET-CODE/tree/master/0387-first-unique-character-in-a-string) |
+| [0541-reverse-string-ii](https://github.com/Shreya08-01/LEET-CODE/tree/master/0541-reverse-string-ii) |
 ## Stack
 |  |
 | ------- |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Shreya08-01/LEET-CODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shreya08-01/LEET-CODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Shreya08-01/LEET-CODE/tree/master/0455-assign-cookies) |
+| [0541-reverse-string-ii](https://github.com/Shreya08-01/LEET-CODE/tree/master/0541-reverse-string-ii) |
 ## Quicksort
 |  |
 | ------- |
