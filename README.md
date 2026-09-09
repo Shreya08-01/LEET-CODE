@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shreya08-01/LEET-CODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shreya08-01/LEET-CODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0137-single-number-ii](https://github.com/Shreya08-01/LEET-CODE/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/Shreya08-01/LEET-CODE/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shreya08-01/LEET-CODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shreya08-01/LEET-CODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Shreya08-01/LEET-CODE/tree/master/0219-contains-duplicate-ii) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Shreya08-01/LEET-CODE/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shreya08-01/LEET-CODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shreya08-01/LEET-CODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0139-word-break](https://github.com/Shreya08-01/LEET-CODE/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/Shreya08-01/LEET-CODE/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Shreya08-01/LEET-CODE/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shreya08-01/LEET-CODE/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Shreya08-01/LEET-CODE/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Shreya08-01/LEET-CODE/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Shreya08-01/LEET-CODE/tree/master/0058-length-of-last-word) |
+| [0139-word-break](https://github.com/Shreya08-01/LEET-CODE/tree/master/0139-word-break) |
 | [0171-excel-sheet-column-number](https://github.com/Shreya08-01/LEET-CODE/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Shreya08-01/LEET-CODE/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shreya08-01/LEET-CODE/tree/master/0345-reverse-vowels-of-a-string) |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shreya08-01/LEET-CODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shreya08-01/LEET-CODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/Shreya08-01/LEET-CODE/tree/master/0139-word-break) |
 ## Interactive
 |  |
 | ------- |
@@ -246,4 +250,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Shreya08-01/LEET-CODE/tree/master/0387-first-unique-character-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Shreya08-01/LEET-CODE/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Shreya08-01/LEET-CODE/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Shreya08-01/LEET-CODE/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
