@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Shreya08-01/LEET-CODE/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/Shreya08-01/LEET-CODE/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Shreya08-01/LEET-CODE/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Shreya08-01/LEET-CODE/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shreya08-01/LEET-CODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shreya08-01/LEET-CODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shreya08-01/LEET-CODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shreya08-01/LEET-CODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Shreya08-01/LEET-CODE/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shreya08-01/LEET-CODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shreya08-01/LEET-CODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/Shreya08-01/LEET-CODE/tree/master/0148-sort-list) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Shreya08-01/LEET-CODE/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shreya08-01/LEET-CODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shreya08-01/LEET-CODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/Shreya08-01/LEET-CODE/tree/master/0139-word-break) |
