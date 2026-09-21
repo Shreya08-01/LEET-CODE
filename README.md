@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Shreya08-01/LEET-CODE/tree/master/0645-set-mismatch) |
 | [0661-image-smoother](https://github.com/Shreya08-01/LEET-CODE/tree/master/0661-image-smoother) |
 | [0682-baseball-game](https://github.com/Shreya08-01/LEET-CODE/tree/master/0682-baseball-game) |
+| [0746-min-cost-climbing-stairs](https://github.com/Shreya08-01/LEET-CODE/tree/master/0746-min-cost-climbing-stairs) |
 | [0804-unique-morse-code-words](https://github.com/Shreya08-01/LEET-CODE/tree/master/0804-unique-morse-code-words) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shreya08-01/LEET-CODE/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Binary Search
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shreya08-01/LEET-CODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shreya08-01/LEET-CODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/Shreya08-01/LEET-CODE/tree/master/0139-word-break) |
+| [0746-min-cost-climbing-stairs](https://github.com/Shreya08-01/LEET-CODE/tree/master/0746-min-cost-climbing-stairs) |
 ## Interactive
 |  |
 | ------- |
