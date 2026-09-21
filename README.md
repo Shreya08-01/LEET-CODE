@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Shreya08-01/LEET-CODE/tree/master/0645-set-mismatch) |
 | [0661-image-smoother](https://github.com/Shreya08-01/LEET-CODE/tree/master/0661-image-smoother) |
 | [0682-baseball-game](https://github.com/Shreya08-01/LEET-CODE/tree/master/0682-baseball-game) |
+| [0804-unique-morse-code-words](https://github.com/Shreya08-01/LEET-CODE/tree/master/0804-unique-morse-code-words) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shreya08-01/LEET-CODE/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Binary Search
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Shreya08-01/LEET-CODE/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/Shreya08-01/LEET-CODE/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/Shreya08-01/LEET-CODE/tree/master/0645-set-mismatch) |
+| [0804-unique-morse-code-words](https://github.com/Shreya08-01/LEET-CODE/tree/master/0804-unique-morse-code-words) |
 ## String
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Shreya08-01/LEET-CODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shreya08-01/LEET-CODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/Shreya08-01/LEET-CODE/tree/master/0541-reverse-string-ii) |
+| [0804-unique-morse-code-words](https://github.com/Shreya08-01/LEET-CODE/tree/master/0804-unique-morse-code-words) |
 ## Stack
 |  |
 | ------- |
