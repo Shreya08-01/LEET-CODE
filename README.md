@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Shreya08-01/LEET-CODE/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Shreya08-01/LEET-CODE/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Shreya08-01/LEET-CODE/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/Shreya08-01/LEET-CODE/tree/master/0057-insert-interval) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shreya08-01/LEET-CODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shreya08-01/LEET-CODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shreya08-01/LEET-CODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
