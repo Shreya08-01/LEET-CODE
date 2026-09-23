@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Shreya08-01/LEET-CODE/tree/master/0645-set-mismatch) |
 | [0661-image-smoother](https://github.com/Shreya08-01/LEET-CODE/tree/master/0661-image-smoother) |
 | [0682-baseball-game](https://github.com/Shreya08-01/LEET-CODE/tree/master/0682-baseball-game) |
+| [0724-find-pivot-index](https://github.com/Shreya08-01/LEET-CODE/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Shreya08-01/LEET-CODE/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/Shreya08-01/LEET-CODE/tree/master/0746-min-cost-climbing-stairs) |
 | [0804-unique-morse-code-words](https://github.com/Shreya08-01/LEET-CODE/tree/master/0804-unique-morse-code-words) |
@@ -306,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Shreya08-01/LEET-CODE/tree/master/0164-maximum-gap) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Shreya08-01/LEET-CODE/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
