@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Shreya08-01/LEET-CODE/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Shreya08-01/LEET-CODE/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/Shreya08-01/LEET-CODE/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/Shreya08-01/LEET-CODE/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Shreya08-01/LEET-CODE/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Shreya08-01/LEET-CODE/tree/master/0058-length-of-last-word) |
 | [0139-word-break](https://github.com/Shreya08-01/LEET-CODE/tree/master/0139-word-break) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shreya08-01/LEET-CODE/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Shreya08-01/LEET-CODE/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Shreya08-01/LEET-CODE/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Shreya08-01/LEET-CODE/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Shreya08-01/LEET-CODE/tree/master/0055-jump-game) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Shreya08-01/LEET-CODE/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Shreya08-01/LEET-CODE/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Shreya08-01/LEET-CODE/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/Shreya08-01/LEET-CODE/tree/master/0047-permutations-ii) |
@@ -324,4 +327,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shreya08-01/LEET-CODE/tree/master/0005-longest-palindromic-substring) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Shreya08-01/LEET-CODE/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
