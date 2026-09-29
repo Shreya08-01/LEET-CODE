@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Shreya08-01/LEET-CODE/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Shreya08-01/LEET-CODE/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Shreya08-01/LEET-CODE/tree/master/0063-unique-paths-ii) |
+| [0079-word-search](https://github.com/Shreya08-01/LEET-CODE/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shreya08-01/LEET-CODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shreya08-01/LEET-CODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shreya08-01/LEET-CODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Shreya08-01/LEET-CODE/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Shreya08-01/LEET-CODE/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Shreya08-01/LEET-CODE/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/Shreya08-01/LEET-CODE/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/Shreya08-01/LEET-CODE/tree/master/0139-word-break) |
 | [0171-excel-sheet-column-number](https://github.com/Shreya08-01/LEET-CODE/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Shreya08-01/LEET-CODE/tree/master/0205-isomorphic-strings) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Shreya08-01/LEET-CODE/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shreya08-01/LEET-CODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Shreya08-01/LEET-CODE/tree/master/0110-balanced-binary-tree) |
 | [0463-island-perimeter](https://github.com/Shreya08-01/LEET-CODE/tree/master/0463-island-perimeter) |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Shreya08-01/LEET-CODE/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Shreya08-01/LEET-CODE/tree/master/0063-unique-paths-ii) |
+| [0079-word-search](https://github.com/Shreya08-01/LEET-CODE/tree/master/0079-word-search) |
 | [0463-island-perimeter](https://github.com/Shreya08-01/LEET-CODE/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/Shreya08-01/LEET-CODE/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/Shreya08-01/LEET-CODE/tree/master/0661-image-smoother) |
@@ -284,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Shreya08-01/LEET-CODE/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Shreya08-01/LEET-CODE/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/Shreya08-01/LEET-CODE/tree/master/0047-permutations-ii) |
+| [0079-word-search](https://github.com/Shreya08-01/LEET-CODE/tree/master/0079-word-search) |
 ## Merge Sort
 |  |
 | ------- |
