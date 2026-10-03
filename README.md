@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Shreya08-01/LEET-CODE/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shreya08-01/LEET-CODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0148-sort-list](https://github.com/Shreya08-01/LEET-CODE/tree/master/0148-sort-list) |
+| [0705-design-hashset](https://github.com/Shreya08-01/LEET-CODE/tree/master/0705-design-hashset) |
 ## Math
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/Shreya08-01/LEET-CODE/tree/master/0661-image-smoother) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Shreya08-01/LEET-CODE/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Shreya08-01/LEET-CODE/tree/master/0682-baseball-game) |
+| [0705-design-hashset](https://github.com/Shreya08-01/LEET-CODE/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/Shreya08-01/LEET-CODE/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Shreya08-01/LEET-CODE/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/Shreya08-01/LEET-CODE/tree/master/0746-min-cost-climbing-stairs) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Shreya08-01/LEET-CODE/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/Shreya08-01/LEET-CODE/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/Shreya08-01/LEET-CODE/tree/master/0645-set-mismatch) |
+| [0705-design-hashset](https://github.com/Shreya08-01/LEET-CODE/tree/master/0705-design-hashset) |
 | [0804-unique-morse-code-words](https://github.com/Shreya08-01/LEET-CODE/tree/master/0804-unique-morse-code-words) |
 ## String
 |  |
@@ -341,4 +344,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shreya08-01/LEET-CODE/tree/master/0022-generate-parentheses) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Shreya08-01/LEET-CODE/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Shreya08-01/LEET-CODE/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
