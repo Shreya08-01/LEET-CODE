@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Shreya08-01/LEET-CODE/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Shreya08-01/LEET-CODE/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/Shreya08-01/LEET-CODE/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/Shreya08-01/LEET-CODE/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Shreya08-01/LEET-CODE/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Shreya08-01/LEET-CODE/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/Shreya08-01/LEET-CODE/tree/master/0079-word-search) |
