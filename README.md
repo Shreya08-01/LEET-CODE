@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Shreya08-01/LEET-CODE/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Shreya08-01/LEET-CODE/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Shreya08-01/LEET-CODE/tree/master/0058-length-of-last-word) |
+| [0072-edit-distance](https://github.com/Shreya08-01/LEET-CODE/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Shreya08-01/LEET-CODE/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/Shreya08-01/LEET-CODE/tree/master/0139-word-break) |
 | [0171-excel-sheet-column-number](https://github.com/Shreya08-01/LEET-CODE/tree/master/0171-excel-sheet-column-number) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Shreya08-01/LEET-CODE/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Shreya08-01/LEET-CODE/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Shreya08-01/LEET-CODE/tree/master/0063-unique-paths-ii) |
+| [0072-edit-distance](https://github.com/Shreya08-01/LEET-CODE/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shreya08-01/LEET-CODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shreya08-01/LEET-CODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/Shreya08-01/LEET-CODE/tree/master/0139-word-break) |
