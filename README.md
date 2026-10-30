@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Shreya08-01/LEET-CODE/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Shreya08-01/LEET-CODE/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Shreya08-01/LEET-CODE/tree/master/0013-roman-to-integer) |
+| [0089-gray-code](https://github.com/Shreya08-01/LEET-CODE/tree/master/0089-gray-code) |
 | [0171-excel-sheet-column-number](https://github.com/Shreya08-01/LEET-CODE/tree/master/0171-excel-sheet-column-number) |
 | [0598-range-addition-ii](https://github.com/Shreya08-01/LEET-CODE/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shreya08-01/LEET-CODE/tree/master/0628-maximum-product-of-three-numbers) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/Shreya08-01/LEET-CODE/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Shreya08-01/LEET-CODE/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/Shreya08-01/LEET-CODE/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Shreya08-01/LEET-CODE/tree/master/0190-reverse-bits) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Shreya08-01/LEET-CODE/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/Shreya08-01/LEET-CODE/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/Shreya08-01/LEET-CODE/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/Shreya08-01/LEET-CODE/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Shreya08-01/LEET-CODE/tree/master/0090-subsets-ii) |
 ## Merge Sort
 |  |
