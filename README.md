@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Shreya08-01/LEET-CODE/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/Shreya08-01/LEET-CODE/tree/master/0746-min-cost-climbing-stairs) |
 | [0804-unique-morse-code-words](https://github.com/Shreya08-01/LEET-CODE/tree/master/0804-unique-morse-code-words) |
+| [1672-richest-customer-wealth](https://github.com/Shreya08-01/LEET-CODE/tree/master/1672-richest-customer-wealth) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shreya08-01/LEET-CODE/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Binary Search
 |  |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/Shreya08-01/LEET-CODE/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/Shreya08-01/LEET-CODE/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/Shreya08-01/LEET-CODE/tree/master/0733-flood-fill) |
+| [1672-richest-customer-wealth](https://github.com/Shreya08-01/LEET-CODE/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
 | ------- |
