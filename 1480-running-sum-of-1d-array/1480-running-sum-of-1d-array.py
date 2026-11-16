@@ -3,6 +3,6 @@ class Solution:
         total=0
         result=[]
         for i in nums:
-            total += i
+            total+=i
             result.append(total)
         return result
