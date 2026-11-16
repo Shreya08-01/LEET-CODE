@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Shreya08-01/LEET-CODE/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/Shreya08-01/LEET-CODE/tree/master/0746-min-cost-climbing-stairs) |
 | [0804-unique-morse-code-words](https://github.com/Shreya08-01/LEET-CODE/tree/master/0804-unique-morse-code-words) |
+| [1480-running-sum-of-1d-array](https://github.com/Shreya08-01/LEET-CODE/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Shreya08-01/LEET-CODE/tree/master/1672-richest-customer-wealth) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shreya08-01/LEET-CODE/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Binary Search
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Shreya08-01/LEET-CODE/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/Shreya08-01/LEET-CODE/tree/master/1480-running-sum-of-1d-array) |
 ## Manacher
 |  |
 | ------- |
