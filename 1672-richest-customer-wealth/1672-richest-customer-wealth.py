@@ -1,3 +1,8 @@
 class Solution:
     def maximumWealth(self, accounts: list[list[int]]) -> int:
-        return max(map(sum,accounts))
+       max_wealth=0
+       for customer in accounts:
+          total=sum(customer)
+          if total>max_wealth:
+            max_wealth=total
+       return max_wealth
