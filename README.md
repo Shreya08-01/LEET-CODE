@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Shreya08-01/LEET-CODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Shreya08-01/LEET-CODE/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Shreya08-01/LEET-CODE/tree/master/0228-summary-ranges) |
+| [0287-find-the-duplicate-number](https://github.com/Shreya08-01/LEET-CODE/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shreya08-01/LEET-CODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Shreya08-01/LEET-CODE/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Shreya08-01/LEET-CODE/tree/master/0455-assign-cookies) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shreya08-01/LEET-CODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shreya08-01/LEET-CODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/Shreya08-01/LEET-CODE/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shreya08-01/LEET-CODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Shreya08-01/LEET-CODE/tree/master/0374-guess-number-higher-or-lower) |
 ## Divide and Conquer
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Shreya08-01/LEET-CODE/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/Shreya08-01/LEET-CODE/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Shreya08-01/LEET-CODE/tree/master/0190-reverse-bits) |
+| [0287-find-the-duplicate-number](https://github.com/Shreya08-01/LEET-CODE/tree/master/0287-find-the-duplicate-number) |
 | [0461-hamming-distance](https://github.com/Shreya08-01/LEET-CODE/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Shreya08-01/LEET-CODE/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/Shreya08-01/LEET-CODE/tree/master/0645-set-mismatch) |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shreya08-01/LEET-CODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0148-sort-list](https://github.com/Shreya08-01/LEET-CODE/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shreya08-01/LEET-CODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/Shreya08-01/LEET-CODE/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shreya08-01/LEET-CODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shreya08-01/LEET-CODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Shreya08-01/LEET-CODE/tree/master/0455-assign-cookies) |
@@ -345,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Shreya08-01/LEET-CODE/tree/master/0164-maximum-gap) |
+| [0287-find-the-duplicate-number](https://github.com/Shreya08-01/LEET-CODE/tree/master/0287-find-the-duplicate-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -368,4 +373,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0705-design-hashset](https://github.com/Shreya08-01/LEET-CODE/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Shreya08-01/LEET-CODE/tree/master/0706-design-hashmap) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Shreya08-01/LEET-CODE/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
