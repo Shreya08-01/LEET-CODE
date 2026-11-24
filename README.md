@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Shreya08-01/LEET-CODE/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Shreya08-01/LEET-CODE/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Shreya08-01/LEET-CODE/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/Shreya08-01/LEET-CODE/tree/master/0062-unique-paths) |
 | [0089-gray-code](https://github.com/Shreya08-01/LEET-CODE/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/Shreya08-01/LEET-CODE/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Shreya08-01/LEET-CODE/tree/master/0171-excel-sheet-column-number) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Shreya08-01/LEET-CODE/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Shreya08-01/LEET-CODE/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Shreya08-01/LEET-CODE/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Shreya08-01/LEET-CODE/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Shreya08-01/LEET-CODE/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/Shreya08-01/LEET-CODE/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shreya08-01/LEET-CODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -397,4 +399,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Shreya08-01/LEET-CODE/tree/master/0287-find-the-duplicate-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Shreya08-01/LEET-CODE/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
