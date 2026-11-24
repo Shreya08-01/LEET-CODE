@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Shreya08-01/LEET-CODE/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Shreya08-01/LEET-CODE/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Shreya08-01/LEET-CODE/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Shreya08-01/LEET-CODE/tree/master/0048-rotate-image) |
 | [0089-gray-code](https://github.com/Shreya08-01/LEET-CODE/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/Shreya08-01/LEET-CODE/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Shreya08-01/LEET-CODE/tree/master/0171-excel-sheet-column-number) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Shreya08-01/LEET-CODE/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Shreya08-01/LEET-CODE/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/Shreya08-01/LEET-CODE/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/Shreya08-01/LEET-CODE/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Shreya08-01/LEET-CODE/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Shreya08-01/LEET-CODE/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Shreya08-01/LEET-CODE/tree/master/0054-spiral-matrix) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Shreya08-01/LEET-CODE/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Shreya08-01/LEET-CODE/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Shreya08-01/LEET-CODE/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/Shreya08-01/LEET-CODE/tree/master/0079-word-search) |
